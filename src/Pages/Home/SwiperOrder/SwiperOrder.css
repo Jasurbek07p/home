@@ -1,0 +1,58 @@
+/* #app {
+    height: 100%;
+}
+
+html,
+body {
+    position: relative;
+    height: 100%;
+}
+
+body {
+    background: #eee;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #000;
+    margin: 0;
+    padding: 0;
+}
+
+.swiper {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 50%;
+    object-fit: cover;
+} */
+
+.swiper-text {
+    text-transform: uppercase;
+    margin-top: -70px;
+    color: #FFF;
+    font-family: Cinzel;
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+}
+
+/* For small devices (tablets and phones) */
+@media (max-width: 768px) {
+    .swiper-text {
+        font-size: 24px;
+        /* Adjust font size for small devices */
+    }
+}
