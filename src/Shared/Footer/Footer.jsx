@@ -6,7 +6,7 @@ const Footer = () => {
             <div className="md:grid grid-cols-2 p-[100px] bg-neutral text-neutral-content">
                 <div className="text-center space-y-2">
                     <h4 className="text-3xl">CONTACT US</h4>
-                    <p className="text-center">123 ABS Street,  kashkadarya</p>
+                    <p className="text-center">  kashkadarya kitob</p>
                     <p> +998 973191950</p>
                     <p>Mon - Fri: 08:00 - 22:00</p>
                     <p>Sat - Sun: 10:00 - 23:00</p>
